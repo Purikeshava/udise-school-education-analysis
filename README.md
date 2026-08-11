@@ -21,30 +21,6 @@ This project analyzes school education statistics using three linked datasets �
 | `social_category_enrollment` | Student enrolment share by category — General, OBC, SC, ST, Muslim |
 
 ---
-
-## 🗂️ Repository Structure
-
-```
-udise-school-education-analysis/
-├── sql/
-│   ├── 01_basic_problems.sql          # 10 foundational queries (filtering, sorting, aggregates)
-│   ├── 02_intermediate_problems.sql   # 10 queries (CASE, subqueries, joins)
-│   └── 03_advanced_problems.sql       # 10 queries (CTEs, RANK, LAG, NTILE, PERCENT_RANK)
-├── notebooks/
-│   └── udise_analysis_python.ipynb    # Python/Pandas EDA + visualizations
-├── data/
-│   └── udise_dataset_excel.xlsx       # Source dataset (3 sheets, one per table)
-├── dashboards/
-│   └── udise_analysis_powerbi.pbix    # Interactive Power BI dashboard
-├── docs/
-│   └── School_SQL_Project_Documentation.pdf   # Full write-up of questions, insights & concepts
-├── assets/
-│   └── (dashboard screenshots go here)
-└── README.md
-```
-
----
-
 ## 🧠 SQL Analysis (30 Business Questions)
 
 Questions are split into three difficulty tiers, each in its own `.sql` file:
