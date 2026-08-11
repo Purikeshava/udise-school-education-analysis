@@ -105,4 +105,5 @@ Full project write-up with all 30 questions, insights, and concept coverage: [`d
 
 ## 👤 Author
 
-*Add your name, LinkedIn, and portfolio link here.*
+B Puri Keshava Krishna Sai 
+Linkedin - https://www.linkedin.com/in/purikeshava/
